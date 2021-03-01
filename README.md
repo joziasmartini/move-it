@@ -21,10 +21,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="100px">
-</p>
-
 ## 💻 Project
 
 This is a project developed during the [Next Level Week](https://nextlevelweek.com/), presented by [@Rocketseat](https://github.com/Rocketseat) during February 22-28, 2021.
