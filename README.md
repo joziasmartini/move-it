@@ -3,21 +3,21 @@
 </h1>
 
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-preview">Preview</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-layout">Getting started</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-license">License</a>
+  <a href="#project">Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#preview">Preview</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#layout">Starting</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#license">License</a>
 </p>
 
 <br>
 
-## 💻 Project
+## Project
 
-This is a project developed during the [Next Level Week](https://nextlevelweek.com/), presented by [@Rocketseat](https://github.com/Rocketseat) during February 22-28, 2021.
+This is a project developed during the Next Level Week (edition four) presented by Rocketseat.
 
-## 🧪 Technologies
+## Technologies
 
 This project was developed using the following technologies:
 
@@ -25,11 +25,11 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🔥 Preview
+## Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://nlw-four.vercel.app/)
+Deploy with [Vercel](https://nlw-four.vercel.app/).
 
-## 🚀 Getting started
+## Starting
 
 Clone the project and access the folder
 
@@ -46,14 +46,10 @@ $ yarn
 $ yarn dev
 ```
 
-## 🔖 Layout
+## Layout
 
 You can view the project layout through [Figma](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0).
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](LICENSE.md).
-
----
-
-<p align="center">Made with 💜 by Jozias Martini</p>
