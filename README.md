@@ -27,7 +27,7 @@ This project was developed using the following technologies:
 
 ## Preview
 
-Deploy with [Vercel](https://nlw-four.vercel.app/).
+See the live project [deployed with Vercel](https://move-it-joziasmartini.vercel.app/).
 
 ## Starting
 
